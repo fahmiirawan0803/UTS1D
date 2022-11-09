@@ -3,5 +3,6 @@ public class JawabanNomerTiga {
         System.out.println("Hello Kelas 1D");
         System.out.println("hallo dek");
         System.out.println("hallo gaes");
+        System.out.println("wkwkwk");
     }
 }

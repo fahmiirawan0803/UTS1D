@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ae10e8b-b753-4508-8cfb-9f703351a642" name="Changes" comment="halo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JawabanNomerTiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JawabanNomerTiga.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667980588870</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="halo dek">
+      <created>1667981805742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667981805742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="halo">
+      <created>1667981996151</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667981996151</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +83,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="halo dek" />
     <MESSAGE value="halo" />
     <option name="LAST_COMMIT_MESSAGE" value="halo" />
   </component>
